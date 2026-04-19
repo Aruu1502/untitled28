@@ -127,6 +127,9 @@ Expected result:
 - No database is required
 - Designed for educational OOP demonstration
 
+- ## ТНЕ PRESENTATION HERE:
+- https://canva.link/gt1nylrysjl39hk
+
 
 
 
