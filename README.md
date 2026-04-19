@@ -127,15 +127,6 @@ Expected result:
 - No database is required
 - Designed for educational OOP demonstration
 
----
-
-## 🚀 Future Improvements (optional)
-- Add database (MySQL / SQLite)
-- Add login system (Admin/User roles)
-- Add search and filtering
-- Improve UI design
-
-
 
 
 
